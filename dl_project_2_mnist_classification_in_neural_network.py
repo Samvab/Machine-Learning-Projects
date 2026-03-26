@@ -120,7 +120,7 @@ Confusion Matrix
 
 conf_mat = confusion_matrix(Y_test,Y_pred_labels )
 
-print(conf_mat)
+print(conf_mat )
 
 plt.figure(figsize =(15,7))
 sns.heatmap(conf_mat,annot =True ,fmt ='d',cmap= 'Blues')
