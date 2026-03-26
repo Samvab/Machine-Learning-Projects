@@ -14,7 +14,7 @@ import seaborn as sns
 import re
 import base64
 from io import BytesIO
-
+ 
 # Set page configuration
 st.set_page_config(
     page_title="Laptop Price Predictor",
