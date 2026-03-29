@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1bp2hzvVePWQJos0NkkpUm-XXnPmwIwtS
 """
 
-
+ 
 
 # sustainability_streamlit_app.py
 import streamlit as st
