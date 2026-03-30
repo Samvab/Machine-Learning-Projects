@@ -1,6 +1,6 @@
       
    
-import pandas as pd 
+import pandas as pd  
 
 df = pd.read_csv("/content/insurance_claims.csv")
 
