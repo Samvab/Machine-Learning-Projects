@@ -6,7 +6,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.preprocessing import LabelEncoder, OneHotEncoder
 from sklearn.compose import ColumnTransformer
-from sklearn.pipeline import Pipeline
+from sklearn.pipeline import Pipeline 
 from sklearn.impute import SimpleImputer
 from sklearn.metrics import mean_squared_error, r2_score
 import matplotlib.pyplot as  plt
